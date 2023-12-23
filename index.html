@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>CONFERÊNCIA BOLÃO</title>
+</head>
+
+<body>
+    <main class="container">
+        <h1> RELAÇÃO DE JOGOS </h1>
+        <p class="preencher"> Preencher os números sorteados</p>
+        <div class="inputs">
+            <input type="number" min="0" max="60" autofocus id="um" placeholder="1º" />
+            <input type="number" min="0" max="60" id="dois" placeholder="2º" />
+            <input type="number" min="0" max="60" id="tres" placeholder="3º" />
+            <input type="number" min="0" max="60" id="quatro" placeholder="4º" />
+            <input type="number" min="0" max="60" id="cinco" placeholder="5º" />
+            <input type="number" min="0" max="60" id="seis" placeholder="6º" />
+        </div>
+        <div class="botao">
+            <button onclick="trazerResultado()" type="button">Ver Resultado</button>
+        </div>
+
+        <table id="table">
+            <thead id="thHeader">
+                <tr id="headerhed">
+                    <th id="nome"> Nome </th>
+                    <th id="n1"> Nº 1 </th>
+                    <th id="n2"> Nº 2 </th>
+                    <th id="n3"> Nº 3 </th>
+                    <th id="n4"> Nº 4 </th>
+                    <th id="n5"> Nº 5 </th>
+                    <th id="n6"> Nº 6 </th>
+                </tr>
+            </thead>
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+    </main>
+</body>
+<script src="./jogos.js"></script>
+<script src="./script.js"></script>
+
+</html>
