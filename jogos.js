@@ -29,6 +29,6 @@ const jogos = [
     { name: 'MARCELO2', jogo1: 3, jogo2: 6, jogo3: 21, jogo4: 33, jogo5: 51, jogo6: 58 },
     { name: 'VAN1', jogo1: 6, jogo2: 19, jogo3: 37, jogo4: 48, jogo5: 51, jogo6: 58 },
     { name: 'VAN2', jogo1: 5, jogo2: 16, jogo3: 22, jogo4: 37, jogo5: 43, jogo6: 60 },
-    { name: 'YAN1', jogo1: 21, jogo2: 23, jogo3: 33, jogo4: 45, jogo5: 49, jogo6: 56 },
+    { name: 'YAN.1', jogo1: 21, jogo2: 23, jogo3: 33, jogo4: 45, jogo5: 49, jogo6: 56 },
     { name: 'YAN2', jogo1: 11, jogo2: 14, jogo3: 23, jogo4: 34, jogo5: 46, jogo6: 57 },
    ];
