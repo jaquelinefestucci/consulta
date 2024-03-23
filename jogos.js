@@ -2,8 +2,8 @@
 const jogos = [
     { name: 'ANA1', jogo1: 7, jogo2: 9, jogo3: 25, jogo4: 33, jogo5: 45, jogo6: 53 },
     { name: 'ANA2', jogo1: 2, jogo2: 11, jogo3: 24, jogo4: 38, jogo5: 41, jogo6: 56 },
-    { name: 'BRUNO1', jogo1: 3, jogo2: 19, jogo3: 20, jogo4: 44, jogo5: 54, jogo6: 60 },
-    { name: 'BRUNO2', jogo1: 9, jogo2: 13, jogo3: 19, jogo4: 28, jogo5: 43, jogo6: 49 },
+    { name: 'BRUNO1', jogo1: 17, jogo2: 21, jogo3: 33, jogo4: 35, jogo5: 55, jogo6: 59 },
+    { name: 'BRUNO2', jogo1: 9, jogo2: 13, jogo3: 18, jogo4: 22, jogo5: 36, jogo6: 44 },
     { name: 'CARLOS1', jogo1: 2, jogo2: 12, jogo3: 22, jogo4: 23, jogo5: 29, jogo6: 44 },
     { name: 'CARLOS2', jogo1: 7, jogo2: 13, jogo3: 22, jogo4: 41, jogo5: 47, jogo6: 55 },
     { name: 'CECEL1', jogo1: 7, jogo2: 13, jogo3: 15, jogo4: 21, jogo5: 32, jogo6: 58 },
