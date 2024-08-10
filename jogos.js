@@ -9,7 +9,7 @@ const jogos = [
     { name: 'CECEL1', jogo1: 7, jogo2: 13, jogo3: 15, jogo4: 21, jogo5: 32, jogo6: 58 },
     { name: 'CECEL2', jogo1: 2, jogo2: 12, jogo3: 17, jogo4: 22, jogo5: 25, jogo6: 36 },
     { name: 'CORINGA1', jogo1: 2, jogo2: 5, jogo3: 7, jogo4: 17, jogo5: 20, jogo6: 40 },
-    { name: 'CORINGA2', jogo1: 10, jogo2: 20, jogo3: 35, jogo4: 39, jogo5: 49, jogo6: 52 },
+    
     { name: 'CORINGA3', jogo1: 5, jogo2: 12, jogo3: 13, jogo4: 26, jogo5: 32, jogo6: 51 },
     { name: 'CRIS1', jogo1: 1, jogo2: 11, jogo3: 16, jogo4: 25, jogo5: 31, jogo6: 45 },
     { name: 'CRIS2', jogo1: 1, jogo2: 5, jogo3: 10, jogo4: 17, jogo5: 43, jogo6: 47 },
